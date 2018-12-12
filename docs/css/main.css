@@ -1,3 +1,7 @@
+html {
+    /* Size of largest container or bigger */
+    max-width: 960px;
+}
 
 .container{
     width: 960px;
@@ -6,8 +10,4 @@
 
 .card-container{
     padding-top: 30px;
-}
-
-.footer-container{
-    background-color: black;
 }
